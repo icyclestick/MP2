@@ -1,0 +1,1 @@
+print(knapsack_solution(*examples[0]))
